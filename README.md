@@ -8,8 +8,8 @@ This GitHub profile is currently being updated.
 
 
 - [Download CV (PDF)](CV_Umut_Ekinci_DataScientist_MLOps.pdf)
-- [Download CV (PDF)](CV_Umut_Ekinci_DataScientist_MLOps_tr.pdf)
-- [Download CV (PDF)](CV_Umut_Ekinci_DataScientist_MLOps_Ang.pdf)   
+- [Download CV TR (PDF)](CV_Umut_Ekinci_DataScientist_MLOps_tr.pdf)
+- [Download CV Eng (PDF)](CV_Umut_Ekinci_DataScientist_MLOps_Ang.pdf)   
 - [LinkedIn](https://www.linkedin.com/in/umut-ekinci)  
 - [Email](mailto:ekinciumut@yahoo.fr )
 - Phone FR: +33 6 95 05 08 43
